@@ -37,3 +37,6 @@
 2. 새로운 브랜치 생성
 ```git checkout -b feature/new-pattern```
 3. 변경 사항을 설명하는 Issue, Pull Request를 제출
+<br><br>
+
+🔗참고 사이트 https://refactoring.guru/ko/design-patterns/factory-method
